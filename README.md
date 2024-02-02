@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm PRERNA PAGAR</h1>
 <h3 align="center">A passionate Full-Stack developer and learner</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preerna&label=Profile%20views&color=0e75b6&style=flat" alt="preerna" /> </p>
 
